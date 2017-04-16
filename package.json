@@ -1,0 +1,17 @@
+{
+  "name": "@samelie/opencv-faces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "colors": "^1.1.2",
+    "lodash": "^4.17.4",
+    "opencv": "^6.0.0",
+    "readdir": "0.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "private": true
+}

@@ -1,0 +1,6 @@
+*.jpg
+node_modules
+output_frames
+data
+envvars
+.DS_Store
