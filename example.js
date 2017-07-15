@@ -13,5 +13,4 @@ GetFacesFromClip(
   }
 ).then(r => {
   console.log(r);
-  console.log(r[0][0]);
 })

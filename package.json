@@ -1,9 +1,16 @@
 {
-  "name": "@samelie/opencv-faces",
-  "version": "1.0.0",
+  "name": "opencv-faces",
   "description": "",
+  "homepage": "https://github.com/samradical/opencv-faces",
+  "author": "Sam Elie <sam@add.dog>",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samradical/opencv-faces.git",
+    "web": "https://github.com/samradical/opencv-faces/"
+  },
   "main": "index.js",
-  "license": "MIT",
+  "scripts": {},
   "dependencies": {
     "bluebird": "^3.5.0",
     "colors": "^1.1.2",
@@ -11,7 +18,17 @@
     "opencv": "^6.0.0",
     "readdir": "0.0.13"
   },
-  "devDependencies": {},
-  "scripts": {},
-  "private": true
+  "engines": {
+    "node": ">=6.7.0"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/samradical/opencv-faces/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  ]
 }
